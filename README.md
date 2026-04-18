@@ -4,8 +4,8 @@
 # Olá! Sou Dandhara Lima 👋
 
 ### 🎓 Formação e Objetivos
-* 🚀 Estudante de **Ciências da Computação** na UNICID (3º Semestre).
-* 🎯 Atualmente focada em aprofundar conhecimentos em **Backend e UI/UX**.
+* 🚀 Estudante de **Ciências da Computação** (3º Semestre).
+* 🎯 Melhorando e revisando matéria a cada dia! 
 * 🔍 Buscando oportunidades de estágio na área de tecnologia.
 
 ### 🛠️ Tecnologias e Ferramentas
